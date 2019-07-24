@@ -3,7 +3,7 @@
      <title>
        SQUIDWARD TORTELLINI
       </title>
-      <link src="./style.css" type="stylesheet"/>
+      <link href="./style.css" rel="stylesheet"/>
       <style>
       header {
       font-family: cheesy;
