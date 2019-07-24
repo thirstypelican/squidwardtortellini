@@ -6,7 +6,7 @@
       <link src="./style.css" type="stylesheet"/>
       <style>
       header {
-      font-family: ariel;
+      font-family: cheesy;
       }
       </style>
   </head>
