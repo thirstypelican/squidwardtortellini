@@ -2,6 +2,13 @@ header {
 background-color: #448AFF;
 }
 
+main {
+  display: grid;
+  grid-template-areas:
+    'aside article article'
+    'aside footer footer';
+  grid-gap: 30px;
+
 aside {
   background: #99BFFF;
 }
