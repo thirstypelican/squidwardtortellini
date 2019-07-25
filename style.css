@@ -8,6 +8,7 @@ main {
     'aside article article'
     'aside footer footer';
   grid-gap: 30px;
+}
 
 aside {
   background: #99BFFF;
