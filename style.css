@@ -4,6 +4,7 @@ background-color: #448AFF;
   background-image url('https://media.salon.com/2018/08/squidward.jpg')
   background-size: cover;
   background-attahment: fixed;
+  background-position: center;
 }
 
 main {
